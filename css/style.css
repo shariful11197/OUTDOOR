@@ -1,0 +1,436 @@
+*{
+	padding:  0px;
+	margin: 0px;
+}
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+
+
+/************************************
+		main css xtart
+****************************************/
+
+/****************header section css start*************/
+.header-section{
+	background: url("../img/banner.jpg") center top no-repeat;
+	background-blend-mode: overlay;
+	background-color: #75393973;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.header-section .menu .btn-info{
+    color: #fff;
+    background-color: transparent;
+    border-color: #17a2b8;
+    border-radius: 25px;
+}
+.header-section .menu .btn-info:hover {
+    color: #fff;
+    background-color: #fd1560;
+    border-color: #117a8b;
+}
+.banner-contant{
+	padding: 300px 0px;
+}
+.navbar-brand{}
+.navbar-brand h1{
+	font-size: 25px;
+	font-weight: 800;
+	color: #fff;
+
+}
+.navbar-brand h1 span{
+	display: block;
+	font-weight: 300;
+	font-size: 24px;
+	text-transform: uppercase;
+	color: #fff;
+}
+.navbar-dark .navbar-nav .nav-link {
+     color: rgb(255 255 255);
+    font-size: 18px;
+    font-weight: 600;
+    
+}
+
+.banner-inner{}
+.banner-inner h5 {
+    font-style: italic;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+}
+.banner-inner span{
+	width: 200px;
+	height:5px;
+	background: red;
+	display: block;
+	margin: auto;
+}
+.banner-inner h1 {
+    font-size: 64px;
+    font-weight: 600;
+    color: #fff;
+}
+.banner-inner .btn-info{
+    background: red;
+    border: 1px solid #08c;
+    border-radius: 25px;
+    font-weight: 500;
+    padding: 8px 16px;
+}
+.banner-inner .btn-info:hover{background: #211e234f;border-radius: 10px 25px 10px 25px;}
+
+
+
+
+.quode-section {
+    background: #F0F1F5;
+    padding: 50px 0px;
+}
+.quode img{    filter: invert(5);
+width: 110px;
+}
+.quode h4 {
+    font-size: 20px;
+    font-weight: 400;
+}
+.quode p {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+.EVENTS-section{padding: 50px 0;
+}
+.heading{margin-bottom: 30px;}
+.heading h1 {
+    font-size: 38px;
+    font-weight: 600;
+    
+}
+
+.heading span{width: 200px;
+	width: 200px;
+	height:5px;
+	background: red;
+	display: block;
+	margin: auto;}
+.event {
+    text-align: center;
+}
+.event img{box-shadow: 15px 15px 0 #f4f5f9;border-radius: 10px;height: 400px;margin-left: 0px;}
+.event h2{
+    font-size: 32px;
+    font-weight: 600;
+    margin-top: 48px;
+    margin-bottom: 25px;
+}
+.event p{
+    font-size: 14px;
+    color: #B8B8B9;
+}
+.event a{
+    font-size: 17px;
+    font-weight: 600;
+    color: red;
+    text-decoration: none;
+}
+.event a:hover{
+    text-decoration: none;
+}
+
+
+
+.test{
+	background: url("../img/1.jpg") center top no-repeat;
+	background-blend-mode: overlay;
+	background-color: #1b171775;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.Explore{padding: 300px 0px;}
+.Explore h1{
+    font-size: 49px;
+    font-weight: 600;
+    color: #fff;
+    font-family: monospace;
+}
+.Explore span{
+	width: 200px;
+	height:5px;
+	background: red;
+	display: block;
+	margin: auto;}
+}
+.Explore p{
+	font-size: 14px;
+    color: #B8B8B9;
+}
+.Explore a{ font-size: 17px;
+    font-weight: 600;
+    color: red;
+    text-decoration: none;
+}
+.Explore a:hover{
+    text-decoration: none;
+}
+
+}a*{
+	padding:  0px;
+	margin: 0px;
+}
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+
+
+/************************************
+		main css xtart
+****************************************/
+
+/****************header section css start*************/
+.header-section{
+	background: url("../img/banner.jpg") center top no-repeat;
+	background-blend-mode: overlay;
+	background-color: #75393973;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.header-section .menu .btn-info{
+    color: #fff;
+    background-color: transparent;
+    border-color: #17a2b8;
+    border-radius: 25px;
+}
+.header-section .menu .btn-info:hover {
+    color: #fff;
+    background-color: #fd1560;
+    border-color: #117a8b;
+}
+.banner-contant{
+	padding: 300px 0px;
+}
+.navbar-brand{}
+.navbar-brand h1{
+	font-size: 25px;
+	font-weight: 800;
+	color: #fff;
+
+}
+.navbar-brand h1 span{
+	display: block;
+	font-weight: 300;
+	font-size: 24px;
+	text-transform: uppercase;
+	color: #fff;
+}
+.navbar-dark .navbar-nav .nav-link {
+     color: rgb(255 255 255);
+    font-size: 18px;
+    font-weight: 600;
+    
+}
+
+.banner-inner{}
+.banner-inner h5 {
+    font-style: italic;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+}
+.banner-inner span{
+	width: 200px;
+	height:5px;
+	background: red;
+	display: block;
+	margin: auto;
+}
+.banner-inner h1 {
+    font-size: 64px;
+    font-weight: 600;
+    color: #fff;
+}
+.banner-inner .btn-info{
+    background: red;
+    border: 1px solid #08c;
+    border-radius: 25px;
+    font-weight: 500;
+    padding: 8px 16px;
+}
+.banner-inner .btn-info:hover{background: #211e234f;border-radius: 10px 25px 10px 25px;}
+
+
+
+
+.quode-section {
+    background: #F0F1F5;
+    padding: 50px 0px;
+}
+.quode img{    filter: invert(5);
+width: 110px;
+}
+.quode h4 {
+    font-size: 20px;
+    font-weight: 400;
+}
+.quode p {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+.EVENTS-section{padding: 50px 0;
+}
+.heading{margin-bottom: 30px;}
+.heading h1 {
+    font-size: 38px;
+    font-weight: 600;
+    
+}
+
+.heading span{width: 200px;
+	width: 200px;
+	height:5px;
+	background: red;
+	display: block;
+	margin: auto;}
+.event {
+    text-align: center;
+}
+.event img{box-shadow: 15px 15px 0 #f4f5f9;border-radius: 10px;height: 400px;margin-left: 0px;}
+.event h2{
+    font-size: 32px;
+    font-weight: 600;
+    margin-top: 48px;
+    margin-bottom: 25px;
+}
+.event p{
+    font-size: 14px;
+    color: #B8B8B9;
+}
+.event a{
+    font-size: 17px;
+    font-weight: 600;
+    color: red;
+    text-decoration: none;
+}
+.event a:hover{
+    text-decoration: none;
+}
+
+
+
+.test{
+	background: url("../img/1.jpg") center top no-repeat;
+	background-blend-mode: overlay;
+	background-color: #1b171775;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.Explore{padding: 300px 0px;}
+.Explore h1{
+    font-size: 49px;
+    font-weight: 600;
+    color: #fff;
+    font-family: monospace;
+}
+.Explore span{
+	width: 115px;
+	height:5px;
+	background: red;
+	display: block;
+	margin: 20px;
+	}
+.Explore .pg{
+	font-size: 15px;
+    color: #fff;
+    
+}
+.Explore a{ font-size: 17px;
+    font-weight: 600;
+    color: red;
+    text-decoration: none;
+}
+.Explore a:hover{
+    text-decoration: none;
+}
+
+
+.TOURS{
+    padding: 64px 0px;
+}
+.toure-title{}
+.toure-title h1{
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.toure-title span{
+    width: 88px;
+    height: 6px;
+    /* color: red; */
+    display: block;
+    margin-bottom: 20px;
+    background: red;
+}
+.toure-title p{
+    font-size: 15px;
+    color: #b8bfd2;
+}
+.toure-title .btn-info{
+    background: red;
+    border: 1px solid #08c;
+    border-radius: 25px;
+    font-weight: 500;
+    padding: 8px 16px;
+}
+.toure-title .btn-info:hover{background: #211e234f;border-radius: 10px 25px 10px 25px;}
+
+.TOURS .toure-img{
+    /* height: 64%; */
+    /* margin: 14px 0px; */
+    padding: 1px 0px;
+}
+.TOURS .toure-img img{
+   margin: 17px 0px;
+   }
+.TOURS .toure-img img .size{
+	height: 87%;
+  }
+
+footer{background: #000;}
+.copyright{
+	padding:
+	background:black; 
+}
+.copyright p{
+    color: #fff;
+    margin: 20px 0px;
+}
+.copyright p a{
+    color: #fff;
+}
+.copyright p a:hover{
+    color: red;
+    text-decoration: none;
+}
